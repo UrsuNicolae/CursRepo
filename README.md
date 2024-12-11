@@ -5,3 +5,6 @@ Acest repository contine toate materialele necesare cursului de **Programare Ori
 
 ## Structura
 Fiecare laborator va avea un folder dedicat in care se vor gasi toate materialele necesare pentru acel laborator.
+
+## Resurse
+- [Cursuri]
